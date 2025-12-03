@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Логи и временные файлы
+*.log
+ai_stats.json
+
+# Конфиг с ключами (НЕ в репозитории)
+config.json
+
+# Архивы / сборки
+*.zip
+*.rar
+*.7z
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml

@@ -1,0 +1,9 @@
+{
+  "golden_key": "PASTE_YOUR_FUNPAY_GOLDEN_KEY_HERE",
+  "user_agent": "PASTE_YOUR_BROWSER_USER_AGENT_HERE",
+  "nickname": "Ваш ник на FunPay",
+  "color_code": "E",
+  "log_enabled": true,
+  "tg_bot_token": "OPTIONAL_TELEGRAM_BOT_TOKEN_HERE",
+  "tg_chat_id": "OPTIONAL_TELEGRAM_CHAT_ID_HERE"
+}
